@@ -49,6 +49,12 @@ body {
 .litegr {
     font-size: 30px;
 }
-.img-r {
-    
+.footer {
+    background-color: #1f1b1b;
+    padding: 150px;
+}
+.footimg {
+    display: grid;
+    gap: 25px;
+    text-align: center;
 }
