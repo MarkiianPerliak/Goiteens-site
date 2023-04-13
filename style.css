@@ -28,16 +28,15 @@ font-size: 37px;
     padding-bottom: 92px;
     background-color: #faf0e6;
     padding: 50px;
+
 }
 .img-header {
     position: relative;
     left: 74.7%;
 }
-.header1 {
-    background-color: #03A9F4;
-}
+
 body {
-    background-color: #f0e68c;
+    background-color: yellow;
 }
 .robloksh2 {
     font-size: 40px;
@@ -60,4 +59,11 @@ body {
 }
 body {
     
+}
+.main-img {
+    display: block;
+    margin: 0 0 0 auto;
+}
+.sectioncolor {
+    background-color: #03A9F4;
 }
